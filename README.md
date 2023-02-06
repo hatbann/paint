@@ -1,5 +1,31 @@
-# paint
+#  paint
 
-Building Painting Board
 
-<img src="https://user-images.githubusercontent.com/86299528/161755037-1360eb80-893f-400a-b3f2-b8bce19718d2.gif">
+# 📄 프로젝트 소개
+ HTML, CSS, Javascript 실습을 위해 진행한 그림판 클론코딩사이트 입니다.
+
+<br>
+
+# ⌛ 제작 기간
+2022년 4월 4일 ~ 2022년 4월 5일
+<br>
+
+# ⚙ 사용 기술 및 라이브러리
+- `HTML / CSS`
+- `Javascript`
+
+<br>
+
+# 🛠 주요 기능
+1. 그림판 색 전체 칠하기
+- Fill 버튼을 누르고 화면을 클릭하면 선택된 색으로 화면 전체가 칠해집니다
+2. 그림 그리기
+- Paint 버튼을 누르면 마우스로 그림을 그릴 수 있습니다
+3. 선 두께 변명
+- 그림판 하단에 위치한 슬라이더로 선 두께를 조절할 수 있습니다
+4. 색상 변경
+- 색을 선택하면 해당 색으로 전체를 칠하거나 그림을 그릴 수 있습니다
+<br>
+
+# 🖥 Site
+https://hatbann.github.io/paint/
